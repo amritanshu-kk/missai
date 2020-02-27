@@ -1,6 +1,6 @@
 # missai
 
-A new Flutter application.
+A new Flutter application.I’ve designed this app from scratch.I along with the team made this app for transforming the life of millions of teachers across the globe by providing them this tool to prepare, check & announce the result of the test paper within a second by using Machine Learning and some technologies. 
 
 ## Getting Started
 
